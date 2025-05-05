@@ -23,7 +23,7 @@ O site apresenta uma **carta de amor** que é exibida de forma interativa quando
 1. **Clone o repositório ou baixe os arquivos:**
    - Clone com o comando:
      ```bash
-     git clone [https://seu-repositorio.com](https://github.com/zeus123-e/envelope-animation.git)
+     git clone https://seu-repositorio.comhttps://github.com/zeus123-e/envelope-animation.git
      ```
    - Ou baixe os arquivos diretamente.
 
