@@ -1,12 +1,12 @@
 :root {
-  --cor-fundo: #faccfa;
-  --cor-wrapper: #ffc0cb;
-  --cor-lid-fechada: #f4a6b1;
-  --cor-lid-aberta: #ff8da1; 
-  --cor-envelope-dir: #f9b3c2;
-  --cor-envelope-esq: #f7d5dd;
-  --cor-texto: #4b4b4b;
-  --cor-letra: #fff;
+  --cor-fundo: #f2f2f2;
+  --cor-wrapper: #e0e0e0;
+  --cor-lid-fechada: #a3a3a3;
+  --cor-lid-aberta: #8c8c8c;
+  --cor-envelope-dir: #b0a18f;
+  --cor-envelope-esq: #d6cfc7;
+  --cor-texto: #2b2b2b;
+  --cor-letra: #ffffff;
 }
 
 * {
